@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.card {
+  padding: 10px;
+  margin: 8px 4px;
+  -webkit-box-shadow: -1px 3px 15px 3px #888888;
+  box-shadow: -1px 3px 15px 3px #888888;
+}
+
+header {
+  background-color: #ECF0F1;
+}
+h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
